@@ -1,0 +1,41 @@
+/*
+
+CSS for main HTML
+
+Author: hung.luong@matocreative.vn
+
+*/
+
+/* CSS Header */
+
+header{
+	position:relative;
+}
+
+header .cover{
+	width:100%;
+	min-height:200px;
+	background-color:green;
+	position:relative;
+	top:0;
+	left:0;
+	z-index:-1;
+}
+
+.navbar-default{
+	background-color:transparent;
+	border-color:transparent;
+}
+
+/* CSS Main Content */
+
+.screen_title{
+	width: 50%;
+	margin-top: 10%;
+	margin-left: 25%;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+/* CSS Footer */
+

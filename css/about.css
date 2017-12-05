@@ -1,0 +1,41 @@
+/*
+
+CSS for About us
+
+Author: hung.luong@matocreative.vn
+
+*/
+
+.main_content .jumbotron{
+	background:none;
+}
+
+.img_frame{
+	width:500px;
+	height:500px;
+	position:relative;
+}
+
+.img_frame img{
+	position:absolute;
+}
+
+img#frame_01, img#frame_02, img#frame_03{
+	left: 50%;
+	top: 50%;
+}
+
+img#frame_01{
+	margin-top: -134px;
+	margin-left: -123px;
+}
+
+img#frame_02{
+	margin-top: -150px;
+	margin-left: -148px;
+}
+
+img#frame_03{
+	margin-top: -121px;
+	margin-left: -109px;
+}
